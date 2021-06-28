@@ -4,7 +4,7 @@
 Googleマップに種類別に表示するアプリ
 
 ### Member
-- [n20007 金城諒](github.com/n20007/GraduationTasks/)
+- [n20007 金城諒](https://github.com/n20007/GraduationTasks)
 
 ### References
 - [スケジュール]()
